@@ -272,7 +272,7 @@ let book = [
     {
         name: "HARRY POTTER and PHILOSOPHER'S STONE",
         author: "J.K.Rowling",
-        price: 260000,
+        price: 270000,
         genre: ['end','action','fiction']
     },
     {
